@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.cabe {
+    width: 100%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #b6b6b6;
+    
+}
+
+.logo {
+    width: 215px;
+    height: 55px;
+}
+
+.botao{
+    width: 120px;
+    height: 23px;
+    border-radius: 15px ;
+    background-color: #8E0B0B;
+    color: #FFF;
+    border: none;
+    outline: none;
+   
+}   
+
+.botao:hover{
+    background-color: #0819B7;
+    position: relative;
+    bottom: 5px;
+}
+
+.cardio img {
+    width: 400px;
+    height: 400px;
+    display: flex;
+ margin-left: 55px;
+
+}
+
+.texto{
+width: 38vw;
+height: 20vh;
+color: #454242;
+font-family: Arbutus Slab;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: absolute;
+top: 300px;
+margin-left: 600px;
+}
+
+.fotinhas{
+  margin-left: 45px;  
+  display: flex;
+  flex-direction: row;
+}
+
+h1{
+    color: #0819B7;
+}
